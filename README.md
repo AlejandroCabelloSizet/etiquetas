@@ -1,3 +1,4 @@
+<?php
 /*
 Plugin Name: Etiquetas
 Plugin URI: https://alejandrocabello.com
